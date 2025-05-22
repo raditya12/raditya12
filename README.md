@@ -27,7 +27,7 @@ public class MyJourney {
     private String goal = "Become freelancer rich guy";
 
     public void displayProgress() {
-        System.out.println("🎓 Student focusing on: " + make my parent proud first);
+        System.out.println("🎓 Student focusing on: make my parent proud first");
         System.out.println("🎯 Aiming to become: Coffee shop owner");
         System.out.println("📚 Current projects: Academic assignments");
     }
@@ -64,11 +64,9 @@ public class MyJourney {
 <p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raditya12&show_icons=true&theme=tokyonight" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raditya12&layout=compact&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raditya12&theme=tokyonight" /> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raditya12&theme=react-dark&bg_color=1A1A1A&hide_border=true&color=00FFD1&line=00FFAD&point=FFFFFF&area=true" /> </p>
 🎯 2025 Goals
 🎓 Academic Goals	💻 Tech Goals	🌱 Personal Growth
-Finish Semester 2 strong	Launch first mobile app	Build personal portfolio
-Master Java OOP	Learn Android Studio	Join a coding community
-More certifications	Learn SQL + Python	Collaborate on GitHub
+Finish Semester 2 strong	Launch first Website and more learn!
 
 🌐 Let's Be Friends!
 <p align="center"> <a href="mailto:radityariefki5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/raditya12"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/raditya12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/raditya.dev"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raditya12&label=Profile+Views&color=brightgreen&style=flat-square" /> </p>
-<div align="center"> <blockquote> <h3>🌱 “Every coder starts with < Hello World />. The rest is practice.”</h3> <p><i>Let's grow together in this amazing world of tech! 🚀</i></p> </blockquote> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
+<div align="center"> <blockquote> <h3>🌱 “Every coder starts with < Hello World />. The rest is practice.”</h3> <p><i>Always love and excited about new things 🚀</i></p> </blockquote> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
