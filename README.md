@@ -27,7 +27,7 @@ public class MyJourney {
     private String goal = "Become freelancer rich guy";
 
     public void displayProgress() {
-        System.out.println("🎓 Student focusing on: " + status);
+        System.out.println("🎓 Student focusing on: " + make my parent proud first);
         System.out.println("🎯 Aiming to become: Coffee shop owner");
         System.out.println("📚 Current projects: Academic assignments");
     }
