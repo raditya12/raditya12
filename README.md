@@ -1,21 +1,5 @@
 🌟 Hi, I'm Raditya — Future App Developer in the Making!
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFC2&center=true&vCenter=true&width=500&lines=Informatics+Student+%F0%9F%93%9D;Mobile+Development+Enthusiast+%F0%9F%93%B1;Tech+Explorer+%F0%9F%94%8E;Learning+1s+%26+0s+with+Passion+%F0%9F%8C%9F" alt="Typing SVG" /> </div>
-🧠 Who Am I?
-"Not just another student learning to code — I'm building the bridge between what I know and what I dream of becoming."
-
-### ☕ Java Development Path (Since 2024)
-```java
-public class MyJourney {
-    private String status = "Informatics Engineering Student";
-    private String goal = "Become freelancer rich guy";
-    
-    public void displayProgress() {
-        System.out.println("🎓 Student focusing on: " + status);
-        System.out.println("🎯 Aiming to become: " + Coffe shop owneer);
-        System.out.println("📚 Current projects: Academic assignments");
-    }
-}
-```
 🎓 Major: Informatics Engineering
 
 📍 Semester: 2nd
@@ -52,6 +36,23 @@ public class MyJourney {
 🔍 UI Sketches – Mobile App design concepts
 
 💻 Coming Soon – Portfolio website + mobile prototype
+🧠 Who Am I?
+"Not just another student learning to code — I'm building the bridge between what I know and what I dream of becoming."
+
+### ☕ Java Development Path (Since 2024)
+```java
+public class MyJourney {
+    private String status = "Informatics Engineering Student";
+    private String goal = "Become freelancer rich guy";
+    
+    public void displayProgress() {
+        System.out.println("🎓 Student focusing on: " + status);
+        System.out.println("🎯 Aiming to become: " + Coffe shop owneer);
+        System.out.println("📚 Current projects: Academic assignments");
+    }
+}
+```
+
 
 📈 GitHub Activity
 <div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raditya12&show_icons=true&theme=radical" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raditya12&layout=compact&theme=radical" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raditya12&theme=radical" /> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raditya12&theme=react-dark&bg_color=1A1A1A&hide_border=true&color=00FFD1&line=00FFAD&point=FFFFFF&area=true" /> </div>
