@@ -1,5 +1,6 @@
 🌟 Hi, I'm Raditya — Future App Developer in the Making!
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFC2&center=true&vCenter=true&width=500&lines=Informatics+Student+%F0%9F%93%9D;Mobile+Development+Enthusiast+%F0%9F%93%B1;Tech+Explorer+%F0%9F%94%8E;Learning+1s+%26+0s+with+Passion+%F0%9F%8C%9F" alt="Typing SVG" /> </div>
+## 🧑‍💻 About Me
 🎓 Major: Informatics Engineering
 
 📍 Semester: 2nd
