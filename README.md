@@ -15,6 +15,7 @@ public class MyJourney {
         System.out.println("📚 Current projects: Academic assignments");
     }
 }
+```
 🎓 Major: Informatics Engineering
 
 📍 Semester: 2nd
