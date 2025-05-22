@@ -3,9 +3,6 @@
 🧠 Who Am I?
 "Not just another student learning to code — I'm building the bridge between what I know and what I dream of becoming."
 
-java
-Copy
-Edit
 class Raditya {
   String status = "Informatics Engineering Student";
   String passion = "Become rich freelancer guy";
@@ -17,6 +14,7 @@ class Raditya {
     build("Apps & Websites");
   }
 }
+
 🎓 Major: Informatics Engineering
 
 📍 Semester: 2nd
