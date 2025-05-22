@@ -1,78 +1,74 @@
-👋 Hi there! I'm Raditya
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB9&center=true&vCenter=true&width=500&lines=Informatics+Student+%F0%9F%92%BB;Future+Mobile+App+Engineer+%F0%9F%93%B1;Code.+Learn.+Repeat.+%F0%9F%94%A5;Exploring+Java+%26+Web+Worlds+%F0%9F%8C%90" alt="Typing SVG" /> </div>
-🧑‍💻 About Me
-Hi! I’m Raditya, an Informatics Engineering student in my early semesters. My journey in tech started in 2024 with Java, and since then I’ve been diving into web development, mobile apps, and software fundamentals.
+🌟 Hi, I'm Raditya — Future App Developer in the Making!
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFC2&center=true&vCenter=true&width=500&lines=Informatics+Student+%F0%9F%93%9D;Mobile+Development+Enthusiast+%F0%9F%93%B1;Tech+Explorer+%F0%9F%94%8E;Learning+1s+%26+0s+with+Passion+%F0%9F%8C%9F" alt="Typing SVG" /> </div>
+🧠 Who Am I?
+"Not just another student learning to code — I'm building the bridge between what I know and what I dream of becoming."
 
-<img align="right" alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-🎓 Status: Undergrad Informatics Student
-
-🌱 Learning: Java, HTML, CSS, and Git
-
-📱 Goal: Become a Mobile Developer
-
-🔍 Focus: Strengthening logic, syntax, and clean code
-
-🚀 Next Steps: Learn Python, MySQL, and Android
-
-📫 Contact Me: raditya.dev12@gmail.com
-
-🧠 Fun fact: I enjoy breaking down complex problems into small “aha!” moments.
-
-🛠️ Tech Stack & Learning Path
-💻 Currently Working With
-
-
-
-
-🎯 On My Radar
-
-
-
-
-🚀 My Journey So Far
 java
 Copy
 Edit
-public class RadityaJourney {
-    String startYear = "2024";
-    String passion = "Mobile Development";
+class Raditya {
+  String status = "Informatics Engineering Student";
+  String passion = "Become rich freelancer guy";
+  boolean curious = true;
 
-    void grow() {
-        System.out.println("Learning Java, HTML, CSS...");
-        System.out.println("Building: academic projects, small prototypes");
-        System.out.println("Next: Android, Python, and backend!");
-    }
+  void grow() {
+    learn("Java, Web Dev, Git");
+    explore("CSS, Python, MySQL");
+    build("Apps & Websites");
+  }
 }
-📜 Certifications
-✔️ Web Development Beginner - Dicoding
-📅 Completed: Dec 2024
-📚 Skills: HTML, CSS, Flexbox, Responsive Design
-🔗 View Certificate
+🎓 Major: Informatics Engineering
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raditya12&show_icons=true&theme=github_dark" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raditya12&layout=compact&theme=github_dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raditya12&theme=github-dark-blue" alt="raditya12 streak" /> </div>
-🧠 Current Projects & Goals
-🔨 Academic & Personal Projects
-Java console apps & logic practices
+📍 Semester: 2nd
 
-Web landing pages & responsive layouts
+💡 Learning By Doing: Academic projects, personal experiments
 
-Git versioning and open source exploration
+⚙️ Tech interests: Java, UI/UX, Web
 
-🎯 Goals
- Master Java OOP
+📬 Reach me: radityariefki5@gmail.com
 
- Build a simple Android app
+🔧 Tech Toolbox
+🛠️ Languages & Tools I Use Now
 
- Learn Python & connect to MySQL
 
- Launch a personal portfolio website
 
-🌍 Let's Connect!
+
+
+🌱 What's Next?
+
+
+
+
+📚 Learning Journey Highlights
+🎓 Certification: Dicoding – Web Dasar
+"HTML, CSS, Flexbox, and Mobile-first Design... checked!"
+🗓️ Completed: Dec 2024 • ⏱ 41 hours
+🔗 Lihat Sertifikat
+
+📌 Projects in Progress
+🧩 Java Console Apps – Practice with OOP, logic building
+
+🌐 Mini Web Projects – HTML & CSS experiments
+
+🔍 UI Sketches – Mobile App design concepts
+
+💻 Coming Soon – Portfolio website + mobile prototype
+
+📈 GitHub Activity
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raditya12&show_icons=true&theme=radical" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raditya12&layout=compact&theme=radical" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raditya12&theme=radical" /> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raditya12&theme=react-dark&bg_color=1A1A1A&hide_border=true&color=00FFD1&line=00FFAD&point=FFFFFF&area=true" /> </div>
+🎯 2025 Goals
+✅ Academic Goals	✅ Tech Goals	✅ Personal Growth
+Finish Semester 2 strong	Launch first app	Build portfolio site
+Master Java OOP	Learn Android Studio	Join a coding community
+More certifications	SQL + Python basics	Collaborate on GitHub
+
+🌐 Let's Be Friends!
 <div align="center">
 
 
 
 
+
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=raditya12&color=blue&style=flat-square&label=Profile+Views" /> </div> <div align="center"> <h3>“Every expert was once a beginner. Keep moving.” 🚀</h3> <p><strong>Let’s learn, build, and grow—one line of code at a time!</strong></p> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=raditya12&label=Profile+Views&color=brightgreen&style=flat-square" /> </div> <div align="center"> <blockquote> <h3>🌱 “Every coder starts with < Hello World />. The rest is practice.”</h3> <p><i>Let's grow together in this amazing world of tech! 🚀</i></p> </blockquote> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div>
