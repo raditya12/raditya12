@@ -3,18 +3,18 @@
 🧠 Who Am I?
 "Not just another student learning to code — I'm building the bridge between what I know and what I dream of becoming."
 
-class Raditya {
-  String status = "Informatics Engineering Student";
-  String passion = "Become rich freelancer guy";
-  boolean curious = true;
-
-  void grow() {
-    learn("Java, Web Dev, Git");
-    explore("CSS, Python, MySQL");
-    build("Apps & Websites");
-  }
+### ☕ Java Development Path (Since 2024)
+```java
+public class MyJourney {
+    private String status = "Informatics Engineering Student";
+    private String goal = "Become freelancer rich guy";
+    
+    public void displayProgress() {
+        System.out.println("🎓 Student focusing on: " + status);
+        System.out.println("🎯 Aiming to become: " + Coffe shop owneer);
+        System.out.println("📚 Current projects: Academic assignments");
+    }
 }
-
 🎓 Major: Informatics Engineering
 
 📍 Semester: 2nd
